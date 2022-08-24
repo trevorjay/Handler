@@ -4,6 +4,8 @@
 
 ## Background
 
+![Best Friends](/images/size.jpg) 
+
 I am a heavy user of a proprietary one-handed keyboard system. Recent maintenance issues and the lack of user serviceability have turned my attention to creating a longer term solution. The result is the Handler Mark VII, my current prototype for a single-handed (110 mm length, 40mm girth) "dream" keyboard, the name referencing its proprietary competitor and [fashion doll](https://en.wikipedia.org/wiki/Ruth_Handler) aesthetics. 
 
 ## Case
@@ -18,7 +20,7 @@ The case should be printed in two sessions with a layer height of .1mm. The bott
 
 The current case is designed to house a Pro Micro form-factor Arduino.
 
-##Wiring
+## Wiring
 
 Wiring, as you can see here, was by hand. Care needs to be taken so as to not have any wires stray to the outside of the the keys as one of the flaws of the current version is how thin the vertical walls are, with the the keys almost touching them as is. I am currently using a column to row diode arrangement with two key columns and four key rows.
 
