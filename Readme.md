@@ -10,6 +10,8 @@ I am a heavy user of a proprietary one-handed keyboard system. Recent maintenanc
 
 ## Case
 
+![CAD Case](/images/model.png)
+
 The case was 3D printed in two parts on my CR-10 using [3DFillies Pink PLA+](https://3dfillies.com/plaplus-filament-175mm-1kg).
 
 The case uses [M4 15mm nuts and bolts](https://www.bunnings.com.au/pinnacle-m4-x-15mm-zinc-plated-round-head-bolts-and-nuts-18-pack_p0168393) that are easily sourced here in Australia from the big box hardware store. I am unsure of their availability in other markets.
