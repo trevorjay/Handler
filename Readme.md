@@ -1,6 +1,6 @@
 # The Handler: My Eight Key Handheld "Dream" Keyboard
 
-![Typing On The Mark VII](images/type.gif)
+![Typing On The Mark VII](/images/type.gif)
 
 ## Background
 
