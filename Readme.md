@@ -1,5 +1,7 @@
 # The Handler: My Eight Key Handheld "Dream" Keyboard
 
+![Typing On The Mark VII](images/type.gif)
+
 ## Background
 
 I am a heavy user of a proprietary one-handed keyboard system. Recent maintenance issues and the lack of user serviceability have turned my attention to creating a longer term solution. The result is the Handler Mark VII, my current prototype for a single-handed (110 mm length, 40mm girth) "dream" keyboard, the name referencing its proprietary competitor and [fashion doll](https://en.wikipedia.org/wiki/Ruth_Handler) aesthetics. 
