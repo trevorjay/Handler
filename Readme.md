@@ -38,6 +38,8 @@ The current prototype uses QMK and the [Ardux](https://ardux.io) layout.
 
 ## Todo
 
+![Lounging](/images/beauty.jpg)
+
 While there are some issues with the physical unit I would like to address such as the aforementioned thin walls, I'd like to do a few more software iterations before returning to the hardware. 
 
 I am unsure of the direction I want the software to take next. I may double down on minimalism and refine [Arduix](https://github.com/trevorjay/arduix), my "bare-metal" Ardux implementation, or I may embrace what I otherwise find a disturbing trend within the keyboard community towards beefier microprocessors and move towards a platform like the Raspberry Pi Pico. That would allow me to implement a full lisp machine onboard the keyboard, which I must admit is an enticing prospect.
